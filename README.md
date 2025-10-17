@@ -1,9 +1,8 @@
-# [Group name]
+# Emil_Tobias
 
 **Group members:**
-- A 
-- B
-- C
+- Emil Rand Friis-Hasché (rds484) 
+- Tobias Frium Jordhøi (mqz151)
 
 **This repository contains:***
 
